@@ -8,6 +8,8 @@ import org.springframework.cache.annotation.EnableCaching;
 
 import com.alibaba.dubbo.spring.boot.annotation.EnableDubboConfiguration;
 
+
+//mazhanfu   git B
 @EnableCaching
 @SpringBootApplication
 @EnableDubboConfiguration
